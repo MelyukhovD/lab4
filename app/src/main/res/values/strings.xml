@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Country Localiser</string>
+    <string name="canada">Canada</string>
+    <string name="finland">Finland</string>
+    <string name="france">France</string>
+    <string name="ukraine">Ukraine</string>
+    <string name="northkorea">North Korea</string>
+</resources>
